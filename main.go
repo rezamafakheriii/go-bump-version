@@ -2,10 +2,6 @@ package main
 
 import "log"
 
-func sayHello() {
+func SayHello() {
 	log.Print("Hello i'm version 1")
-}
-
-func main() {
-	sayHello()
 }
